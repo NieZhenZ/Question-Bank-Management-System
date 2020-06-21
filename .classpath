@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="poilib/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="poilib/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="poilib/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="poilib/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="poilib/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="poilib/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="poilib/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="poilib/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="poilib/jspsmartupload.jar"/>
+	<classpathentry kind="lib" path="F:/webapp/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/json-taglib-0.4.1.jar"/>
+	<classpathentry kind="lib" path="F:/tomcat/apache-tomcat-7.0.96/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/shujuku/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="F:/tomcat/apache-tomcat-7.0.96/lib/jsp-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
